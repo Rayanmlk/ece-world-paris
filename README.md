@@ -113,10 +113,6 @@ make
 ./PROJET.exe
 ```
 
-> **Note :** Les fichiers assets (`.bmp`, `.wav`) se trouvent dans le dossier `assets/`. Ils doivent être copiés dans le même dossier que l'exécutable (`cmake-build-debug/`) pour lancer le jeu.
->
-> **Assets manquants :** `viseur.bmp` et les BMPs de ballons (`rouge.bmp`, `noir.bmp`, `rose.bmp`, `blanc.bmp`, `violet.bmp`) utilisés par le mini-jeu Tir aux Ballons n'ont pas été retrouvés.
-
 ---
 
 ## Équipe
